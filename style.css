@@ -1,0 +1,20 @@
+body{
+    background: rgb(99, 59, 192);
+    color: white;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: 'Grandstander', cursive;
+
+}
+.name_of_objects,#result_object_name,#result_object_accuracy {
+    color: rgb(231, 255, 176);
+    font-family: 'Henny Penny', cursive;
+
+}
+#camera{
+    border: 2px dashed rgb(216, 129, 187);
+    width: 350px;
+    height: 300px;
+}
